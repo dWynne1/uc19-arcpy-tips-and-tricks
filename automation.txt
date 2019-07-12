@@ -1,0 +1,5 @@
+If you are running a Python script as a scheduled task, the program or script should be:
+
+C:\PROGRA~1\ArcGIS\Pro\bin\Python\Scripts\propy
+
+...and the arguments should include the full path to your Python script.
